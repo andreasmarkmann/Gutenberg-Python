@@ -1,0 +1,6 @@
+text-unzipped/
+gutenberg.zip
+__pychache__/
+*.pyc
+test*.py
+.idea
